@@ -44,8 +44,7 @@ The profile screenshot shows my public HackerRank profile and current Problem So
 
 ![HackerRank Profile](hackerrank_profile.png)
 
-> Note: The current profile screenshot shows a 1-star Problem Solving badge. No 3-star badge is claimed here.
-
+> Note: The profile screenshot shows my public HackerRank profile and my 3-star Problem Solving badge.
 ## Reflection
 
 While solving these problems, I focused on choosing simple and efficient approaches rather than using unnecessary operations. For Diagonal Difference, I accessed only the two diagonals while traversing the matrix once, which keeps the solution at O(N) time and O(1) extra space. Dynamic Array required careful use of vectors and the XOR operation to calculate the sequence index efficiently. In Time Conversion, I handled the AM and PM cases directly and avoided unnecessary processing.
