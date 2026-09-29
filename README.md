@@ -42,7 +42,7 @@ This repository contains my solutions for the HackerRank Algorithmic Problem-Sol
 
 The profile screenshot shows my public HackerRank profile and current Problem Solving badge.
 
-![HackerRank Profile](hackerrank_profile.png)
+![HackerRank Profile](hackerrank_profile_3star.png)
 
 > Note: The profile screenshot shows my public HackerRank profile and my 3-star Problem Solving badge.
 ## Reflection
