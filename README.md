@@ -20,31 +20,30 @@ This repository contains my solutions for the HackerRank Algorithmic Problem-Sol
 
 ### 1. Diagonal Difference
 
-![Diagonal Difference Accepted](diagonal_difference_accepted.png)
+![Diagonal Difference Accepted](Diagonal-Difference/diagonal_difference_accepted.png)
 
 ### 2. Dynamic Array
 
-![Dynamic Array Accepted](dynamic_array_accepted.png)
+![Dynamic Array Accepted](Dynamic-Array/dynamic_array_accepted.png)
 
 ### 3. Time Conversion
 
-![Time Conversion Accepted](time_conversion_accepted.png)
+![Time Conversion Accepted](Time-Conversion/time_conversion_accepted.png)
 
 ### 4. Compare the Triplets
 
-![Compare the Triplets Accepted](compare_triplets_accepted.png)
+![Compare the Triplets Accepted](Compare-the-Triplets/compare_triplets_accepted.png)
 
 ### 5. Sparse Arrays
 
-![Sparse Arrays Accepted](sparse_arrays_accepted.png)
+![Sparse Arrays Accepted](Sparse-Arrays/sparse_arrays_accepted.png)
 
 ## HackerRank Profile and Badge Evidence
 
-The profile screenshot shows my public HackerRank profile and current Problem Solving badge.
+The profile screenshot shows my public HackerRank profile and my 3-star Problem Solving badge.
 
 ![HackerRank Profile](hackerrank_profile_3star.png)
 
-> Note: The profile screenshot shows my public HackerRank profile and my 3-star Problem Solving badge.
 ## Reflection
 
 While solving these problems, I focused on choosing simple and efficient approaches rather than using unnecessary operations. For Diagonal Difference, I accessed only the two diagonals while traversing the matrix once, which keeps the solution at O(N) time and O(1) extra space. Dynamic Array required careful use of vectors and the XOR operation to calculate the sequence index efficiently. In Time Conversion, I handled the AM and PM cases directly and avoided unnecessary processing.
