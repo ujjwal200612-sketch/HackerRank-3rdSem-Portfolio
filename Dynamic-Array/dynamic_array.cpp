@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Process queries using sequences and the XOR-based index rule.
 vector<int> dynamicArray(int n, vector<vector<int>> queries) {
     vector<vector<int>> arr(n);
     vector<int> result;
@@ -11,6 +12,7 @@ vector<int> dynamicArray(int n, vector<vector<int>> queries) {
         int x = queries[i][1];
         int y = queries[i][2];
 
+        // XOR with lastAnswer determines the sequence index.
         int index = (x ^ lastAnswer) % n;
 
         if (type == 1) {
